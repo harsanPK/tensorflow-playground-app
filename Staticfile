@@ -1,0 +1,5 @@
+ssi: enabled
+directory: visible
+pushstate: enabled
+http_strict_transport_security: true
+FORCE_HTTPS: true
